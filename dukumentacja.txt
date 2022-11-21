@@ -13,14 +13,16 @@ tabele
 --uzytkonik_id
 --email
 --haslo
+--nazwa
 
 
 -komentarze 
+--komentarze_id
 --uzytkonik_id
+--nowosc_id
 --zawartowsc
---wiadomosc_id
 
--wiadomosc
---wiadomosc_id
+-nowosc
+--nowosc_id
 --zawartowsc
 --uzytkownik_id
