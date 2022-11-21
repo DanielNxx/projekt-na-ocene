@@ -18,3 +18,9 @@ tabele
 -komentarze 
 --uzytkonik_id
 --zawartowsc
+--wiadomosc_id
+
+-wiadomosc
+--wiadomosc_id
+--zawartowsc
+--uzytkownik_id
