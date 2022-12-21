@@ -1,6 +1,6 @@
 Strona jest dziełem pracy 4 osób.
 Łukarz Groszyk, Oliwier Kisiel, Daniel Nowacki, Piotr Hryszkiewicz.
-
+przed zalogowaniem jest główna strona
 Co robi strona.
 portal z nowościami i komentarze moźna stworzyć konto i się zalogować się
 
