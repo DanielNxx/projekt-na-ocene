@@ -1,0 +1,15 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #e5d4ed;
+}
+
+h1 {
+    color: #6D72C3;
+    font-size: 2.5em;
+}
+
+a {
+    text-decoration: none;
+    color: #1D1128;
+    font-size: 1.5em;
+}

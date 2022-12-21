@@ -1,0 +1,10 @@
+Strona jest dziełem pracy 4 osób.
+Łukarz Groszyk, Oliwier Kisiel, Daniel Nowacki, Piotr Hryszkiewicz.
+
+Co robi strona.
+portal z nowościami i komentarze moźna stworzyć konto i się zalogować się
+
+Łukasz Groszyk grafik i pomoc przy kodzie
+Oiwier kisiel lider i kordynacja pracą
+Daniel Nowacki projektant stworzył projekt strony i baze danych 
+Piotr Hryszkiewicz programista php

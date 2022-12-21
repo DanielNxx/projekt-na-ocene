@@ -1,0 +1,1 @@
+Wrzuć pliki CSS do zrobionego folderu CSS, a pliki PHP (z wyjątkiem "formularz_logowania.php") do folderu PHP

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dodaj komentarz</title>
+    <!-- Potrzebne do czcionki -->
+    <link rel="stylesheet" href="css/wiadomosc.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+</head>
+<body>
+    <center>
+    <h1>Dodaj komentarz</h1>
+    <form method="post" action="php/komentarz.php">
+        <h4>Podaj nazwe uzytkownika</h4>
+        <input type="text" name="uzytkownik" placeholder="Nazwa użytkownika"> <br>
+        <h3>Tytuł komentarza</h3> <br>
+        <input type="text" name="tytul" placeholder="Wpisz tytuł swojego posta"> <br> <br>
+        <textarea name="tresc" placeholder="Treść"></textarea> <br>
+        <section id="but-1"> <br>
+            <button type="submit" action="php/komentarz.php" name="comment">Wyślij</button>
+        </section>
+    </form>
+    </center>
+</body>
+</html>
